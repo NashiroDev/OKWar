@@ -2,60 +2,6 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>PixelBoard Project - Community Manager Guide</title>
-  <style>
-    body {
-      background: #1a1d22;
-      color: #eee;
-      font-family: 'Segoe UI', Arial, sans-serif;
-      margin: 0 auto;
-      padding: 2em;
-      max-width: 840px;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #74c0fc;
-      text-align: center;
-    }
-    h1 {
-      margin-bottom: 0.5em;
-      font-size: 2.2em;
-    }
-    h2 {
-      margin-top: 2em;
-      font-size: 1.5em;
-      border-bottom: 1px solid #333;
-      padding-bottom: 0.2em;
-    }
-    code, pre {
-      background: #23272e;
-      border-radius: 5px;
-      padding: 0.2em 0.4em;
-      color: #e0b089;
-      font-size: 1em;
-    }
-    ul {
-      margin-left: 1.5em;
-    }
-    .tip {
-      background: #222d;
-      border-left: 3px solid #74c0fc;
-      margin: 1.5em 0;
-      padding: 0.7em 1em;
-      border-radius: 6px;
-      font-size: 0.96em;
-    }
-    a {
-      color: #80caff;
-      word-break: break-all;
-    }
-    .section {
-      margin-bottom: 2em;
-    }
-    .bold {
-      font-weight: bold;
-    }
-  </style>
 </head>
 <body>
   <h1>PixelBoard Project</h1>
