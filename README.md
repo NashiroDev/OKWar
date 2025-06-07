@@ -1,4 +1,4 @@
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8" /> <title>Decentralized Pixel Board Project Overview</title> <style> body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; } h1, h2, h3 { color: #333; } ul { margin-left: 20px; } code { background: #f4f4f4; padding: 2px 4px; } p, li { margin-bottom: 1em; } </style> </head> <body> <h1>Decentralized Pixel Board Project</h1>
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8" /></head> <body> <h1>Decentralized Pixel Board Project</h1>
 
 <h2>What Is This Project?</h2> <p> Imagine a giant, digital canvas where anyone can help create a massive, collaborative artwork—one pixel at a time! This project is exactly that: a decentralized pixel board where thousands of users collectively “paint” a board made up of 68,000 tiny cells. And the best part? Everything is powered by blockchain technology, making it completely transparent and tamper-proof. </p>
 
